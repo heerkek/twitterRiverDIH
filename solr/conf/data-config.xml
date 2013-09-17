@@ -1,0 +1,13 @@
+<dataConfig>
+    <document>
+        <entity processor="edu.anadolu.solr.handler.dataimport.TwitterEntityProcessor" name="t" 
+			oAuthAccessTokenSecret="mukNtWHsl1TtYL2WyEqzHz14d0hduPngONCKftC8"
+			oAuthAccessToken="396105089-70L0LDJfmVMQo3UE5s1KhOOKd5OK7ERqqhklK36y"
+			oAuthConsumerKey="nm5Jr5BwVnBgWCNbyDzIAA"
+			oAuthConsumerSecret="w23ZPMZK05FQd1tjRfmbD9KpcF7aa8iX07wNjzk0vc"
+			type="filter"
+			tracks="ankara,istanbul"
+			dataSource="null"
+		/>
+    </document>
+</dataConfig>
